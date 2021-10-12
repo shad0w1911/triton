@@ -159,6 +159,7 @@ export const Contact = () => (
                 height="280px"
                 allowfullscreen=""
                 loading="lazy"
+                title="This is a unique title"
               ></iframe>
             </Col>
           </Row>

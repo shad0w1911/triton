@@ -1,12 +1,6 @@
 import React from "react";
-import {
-  ButtonGroup,
-  Col,
-  Container,
-  Row,
-  Button,
-  Card,
-} from "react-bootstrap";
+import { ButtonGroup, Col, Container, Row, Button } from "react-bootstrap";
+import { Link } from "react-router-dom";
 import bg from "../../Assets/Images/photo-1486406146926-c627a92ad1ab.jfif";
 import "../css/home.css";
 
@@ -307,9 +301,9 @@ const Home = () => {
             nostrum labore eaque expedita sequi magnam quisquam.
           </p>
           <br />
-          <a href="/Contact" class="overlayBtn">
+          <Link to="/Contact" class="overlayBtn">
             GET IN TOUCH
-          </a>
+          </Link>
           <br />
           <br />
         </div>

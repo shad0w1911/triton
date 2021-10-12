@@ -1,6 +1,6 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
 import { Container } from "react-bootstrap";
+import { Link } from "react-router-dom";
 function Footer() {
   return (
     <Container fluid="true">
@@ -41,19 +41,19 @@ function Footer() {
                   }}
                 />
                 <p>
-                  <a href="/" class="text-white">
+                  <Link to="/" class="text-white">
                     US Campaigns
-                  </a>
+                  </Link>
                 </p>
                 <p>
-                  <a href="/" class="text-white">
+                  <Link to="/" class="text-white">
                     Global Real-Estate
-                  </a>
+                  </Link>
                 </p>
                 <p>
-                  <a href="/" class="text-white">
+                  <Link to="/" class="text-white">
                     Automobile
-                  </a>
+                  </Link>
                 </p>
               </div>
               <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
@@ -67,19 +67,19 @@ function Footer() {
                   }}
                 />
                 <p>
-                  <a href="/" class="text-white">
+                  <Link to="/" class="text-white">
                     Careers
-                  </a>
+                  </Link>
                 </p>
                 <p>
-                  <a href="#!" class="text-white">
+                  <Link to="/" class="text-white">
                     POS-IOS Program
-                  </a>
+                  </Link>
                 </p>
                 <p>
-                  <a href="/Contact" class="text-white">
+                  <Link to="/" class="text-white">
                     Contact Us
-                  </a>
+                  </Link>
                 </p>
               </div>
               <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
