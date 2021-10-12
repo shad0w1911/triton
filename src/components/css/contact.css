@@ -1,0 +1,48 @@
+.contactBody {
+    background-color: rgb(238, 237, 236);
+}
+
+.banner {
+    height: 100px;
+    background-color: rgb(155, 132, 76);
+}
+
+.banner h1 {
+    padding-top: 30px;
+}
+
+.aboutHeading {
+    font-size: 1.8rem;
+    font-weight: 700;
+    font-family: "Lato", sans-serif;
+    text-transform: uppercase;
+}
+
+.formHeader {
+    height: 100px;
+    width: 100%;
+    background-image: url("../../Assets/Images//pexels-photo-3105060.jpeg");
+}
+
+.formHeader h1 {
+    color: #fff;
+    padding-top: 30px;
+}
+
+.formBody {
+    background-color: #fff;
+}
+
+.form {
+    padding: 20px;
+    text-align: left;
+}
+
+.icon {
+    font-size: 30px;
+    text-align: left;
+}
+
+.contactInfo {
+    font-weight: 700;
+}

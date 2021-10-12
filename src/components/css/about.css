@@ -1,0 +1,33 @@
+.banner {
+    height: 100px;
+    background-color: rgb(155, 132, 76);
+}
+
+.banner h1 {
+    padding-top: 30px;
+}
+
+.aboutHeading {
+    font-size: 1.8rem;
+    font-weight: 700;
+    font-family: "Lato", sans-serif;
+    text-transform: uppercase;
+}
+
+.overlayBtn {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    background-color: rgb(155, 132, 76);
+    font-weight: 700;
+    transition: ease-in-out 0.2s;
+    border-radius: 5px;
+    border: 3px thin transparent;
+}
+
+.overlayBtn:hover {
+    border: 3px thin rgb(51, 52, 63);
+    background-color: #fff;
+    color: rgb(51, 52, 63);
+    text-decoration: none;
+}

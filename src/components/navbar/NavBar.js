@@ -1,8 +1,8 @@
 import React from "react";
 import logo from "../../Assets/Logo/logo-817x824.png";
-import logo1 from "../../Assets/Logo/logo.png";
 import "../../bootswatch/bootstrap.min.css";
 import { Nav, Navbar, NavDropdown } from "react-bootstrap";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const NavigationBar = () => {
   return (
     <div>
@@ -13,7 +13,10 @@ const NavigationBar = () => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="/">Home</Nav.Link>
+            <Nav.Link href="/">
+              <FontAwesomeIcon icon="coffee" />
+              Home
+            </Nav.Link>
             <Nav.Link href="/About">About</Nav.Link>
             <Nav.Link href="/Contact">Contact</Nav.Link>
             <NavDropdown title="Services" id="basic-nav-dropdown" hidden>
