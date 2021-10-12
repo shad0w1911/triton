@@ -11,7 +11,7 @@ import Footer from "./components/navbar/footer";
 
 function App() {
   return (
-    <Router>
+    <Router basename="triton-consultancy">
       <NavigationBar />
       <Switch>
         <Route path="/" exact component={Home} />
