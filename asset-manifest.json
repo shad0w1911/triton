@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/triton-consultancy/static/css/main.986872fe.chunk.css",
+    "main.js": "/triton-consultancy/static/js/main.36fb86bd.chunk.js",
+    "main.js.map": "/triton-consultancy/static/js/main.36fb86bd.chunk.js.map",
+    "runtime-main.js": "/triton-consultancy/static/js/runtime-main.8286ccb8.js",
+    "runtime-main.js.map": "/triton-consultancy/static/js/runtime-main.8286ccb8.js.map",
+    "static/css/2.28bb0c3d.chunk.css": "/triton-consultancy/static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.1efd7af2.chunk.js": "/triton-consultancy/static/js/2.1efd7af2.chunk.js",
+    "static/js/2.1efd7af2.chunk.js.map": "/triton-consultancy/static/js/2.1efd7af2.chunk.js.map",
+    "static/js/3.5f070605.chunk.js": "/triton-consultancy/static/js/3.5f070605.chunk.js",
+    "static/js/3.5f070605.chunk.js.map": "/triton-consultancy/static/js/3.5f070605.chunk.js.map",
+    "index.html": "/triton-consultancy/index.html",
+    "static/css/2.28bb0c3d.chunk.css.map": "/triton-consultancy/static/css/2.28bb0c3d.chunk.css.map",
+    "static/css/main.986872fe.chunk.css.map": "/triton-consultancy/static/css/main.986872fe.chunk.css.map",
+    "static/js/2.1efd7af2.chunk.js.LICENSE.txt": "/triton-consultancy/static/js/2.1efd7af2.chunk.js.LICENSE.txt",
+    "static/media/Why-Flexible-Managed-1024x536.4c2b0fb4.jpg": "/triton-consultancy/static/media/Why-Flexible-Managed-1024x536.4c2b0fb4.jpg",
+    "static/media/dummy-image.58000828.jpg": "/triton-consultancy/static/media/dummy-image.58000828.jpg",
+    "static/media/logo-817x824.3c5f45d6.png": "/triton-consultancy/static/media/logo-817x824.3c5f45d6.png",
+    "static/media/contact.css": "/triton-consultancy/static/media/pexels-photo-3105060.65074ec6.jpeg",
+    "static/media/photo-1486406146926-c627a92ad1ab.369d6324.jfif": "/triton-consultancy/static/media/photo-1486406146926-c627a92ad1ab.369d6324.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8286ccb8.js",
+    "static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.1efd7af2.chunk.js",
+    "static/css/main.986872fe.chunk.css",
+    "static/js/main.36fb86bd.chunk.js"
+  ]
+}
