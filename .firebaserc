@@ -1,0 +1,22 @@
+{
+  "projects": {
+    "default": "triton-34d57"
+  },
+  "targets": {
+    "your-firebase-project-id": {
+      "hosting": {
+        "target-name": [
+          "triton-34d57"
+        ]
+      }
+    },
+    "triton-34d57": {
+      "hosting": {
+        "target-name": [
+          "triton-34d57"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

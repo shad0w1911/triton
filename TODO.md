@@ -1,0 +1,7 @@
+- [ ] Create .env file with EmailJS API keys
+- [ ] Update .gitignore to include .env
+- [ ] Create src/config/emailjs.js to export keys from process.env
+- [ ] Refactor src/Pages/contact.jsx to import and use keys from config
+- [ ] Refactor src/components/callToAction.jsx to import and use keys from config
+- [ ] Test the application to ensure email sending works
+- [ ] Verify .env is not committed to version control

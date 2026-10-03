@@ -1,0 +1,93 @@
+.maintenance-page {
+  align-items: center;
+  background:
+    radial-gradient(
+      ellipse at 50% 0%,
+      rgba(155, 132, 76, 0.2),
+      transparent 55%
+    ),
+    #111416;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 32px 20px;
+  text-align: center;
+}
+
+.maintenance-card {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  max-width: 620px;
+  width: 100%;
+}
+
+.maintenance-status {
+  color: #fff;
+  display: block;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.maintenance-icon {
+  display: block;
+  height: 92px;
+  margin: 0 auto 14px;
+  object-fit: contain;
+  width: 92px;
+}
+
+.maintenance-eyebrow {
+  color: #d0bd8b;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  line-height: 1.4;
+  margin: 40px 0 14px;
+}
+
+.maintenance-card h1 {
+  font-size: clamp(32px, 6vw, 52px);
+  font-weight: 600;
+  letter-spacing: -0.04em;
+  line-height: 1.1;
+  margin: 0;
+}
+
+.maintenance-message {
+  color: #b8bdc0;
+  font-size: 17px;
+  line-height: 1.7;
+  margin: 22px auto 0;
+  max-width: 500px;
+  width: 100%;
+}
+
+.maintenance-divider {
+  background: rgba(255, 255, 255, 0.14);
+  height: 1px;
+  margin: 36px auto 22px;
+  max-width: 360px;
+  width: 100%;
+}
+
+.maintenance-note {
+  color: #858c90;
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 0;
+}
+
+@media (max-width: 480px) {
+  .maintenance-eyebrow {
+    margin-top: 32px;
+  }
+
+  .maintenance-message {
+    font-size: 15px;
+  }
+}
